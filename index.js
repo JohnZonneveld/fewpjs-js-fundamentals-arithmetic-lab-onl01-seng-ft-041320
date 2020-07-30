@@ -1,6 +1,8 @@
 
 // Write your code here
 let multipy = num1 * num2
-random = Math.random()
-mod = num1 % num2
-max = Math.max(1, 2, 3, 20)
+let random = Math.random()
+let mod = num1 % num2
+let max = Math.max(1, 2, 3, 20)
+let num1 = 24
+let num2 = 5
